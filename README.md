@@ -1,2 +1,2 @@
-# MoodSync
+# MoodMatch
 Major Project
